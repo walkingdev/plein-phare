@@ -1,5 +1,5 @@
 ---
-title: Budget de la session sur Plein-Phare V-34
+title: Budget de la session sur Plein-Phare V-75
 description: Liste des dépenses/recettes de la session
 ---
 
