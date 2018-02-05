@@ -1,5 +1,5 @@
 ---
-title: Plein-Phare - v-75
+title: Idées d'ateliers - Plein-Phare - v-75
 description: exemples de sujets/ateliers pouvant être abordé
 ---
 
