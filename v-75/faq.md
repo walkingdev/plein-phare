@@ -1,40 +1,31 @@
 ---
-title: CNV poils aux pieds
-description: découvrir/apprendre/pratiquer la Communication NonViolente
-image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
+title: Présentation de la session Plein-Phare - v-75
+description: Apprendre à répondre à la question : qu'est-ce que tu vas faire de ta vie
+image_url: https://github.com/walkingdev/plein-phare/blob/master/media/banner-plein-phare.png?raw=true
 ---
-
-# Viens tâter la CNV* (Communication NonViolente)
-*avec les Girafes de la Bande "CNV Poils Aux Pieds"
 
 ## FAQ
 
 ### On va faire quoi ?
 
-En explorant des lieux insolites dans Montpellier, on va découvrir/apprendre/pratiquer la Communication NonViolente. Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
-On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
+En explorant des lieux insolites dans Paris, on va échanger, apprendre et jouer des ateliers pour pouvoir répondre tranquillement à la question : "qu'est-ce tu veux faire plus tard ?". Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se balader de lieux en lieux. Dans chaque nouveau lieu on fera un nouvel atelier.
 
 ### C'est quand et où ?
 
-La marche commence **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
-RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
+La marche commence **le samedi 3 mars 2017 à 9h** et se termine vers 18h30.  
+RDV au [10h10 coworking](https://www.le10h10.com) - 19 Rue de Cléry, Paris 2ème.
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
-- tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
-- tu aspires à prendre plus soin de tes relations
-- tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- tu es perplexe et/ou curieu.x.se
-- tu la pratiques depuis longtemps et aspires à partager quelques clés
-- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
-- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
+C'est pour toi si :
+- tu es étudiant·e lycéen·ne 
+- tu ne sais pas très précisément ce que tu veux faire plus tard
 - Ou encore si tu as juste envie d'apprendre des trucs 
 
-### Je me sens pas au niveau…
+### Je me sens pas très à l'aise…
 
 T’inquiète pas, nous non plus ;)  
-Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+Et, c'est normal, une petite aventure sur une journée 
 
 ### C'est qui qui organise ?
 
