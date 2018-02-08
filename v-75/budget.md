@@ -1,6 +1,6 @@
 ---
-title: Budget de la session sur Plein-Phare V-75
-description: Liste des dépenses/recettes de la session
+title: Le budget
+description: Liste des dépenses/recettes de la session pour tout savoir sur le combien !
 ---
 
 # Dépenses
