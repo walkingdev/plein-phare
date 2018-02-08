@@ -1,6 +1,6 @@
 ---
-title: Lieux utilisés lors de la session Plein-Phare v-75
-description: Liste des lieux conviviaux
+title: Les lieux qu'on va visiter
+description: Un avant goût des endroits que l'on va découvrir ensemble.
 ---
 
 ## Lieux utilisés 
