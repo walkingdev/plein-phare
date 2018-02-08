@@ -12,6 +12,6 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 - Bouteille d’eau
 - Couteau, baguettes, fourchette
 
-## Préparation des organisateurs
+## Préparation des organisat·eur·rice·s
 * 1 trousse : marqueurs, post-it, crayons, papiers
 * 1 vidéo-pro
