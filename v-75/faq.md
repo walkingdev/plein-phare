@@ -1,7 +1,7 @@
 ---
 title: Une journée de découverte de Plein Phare ? Comment ça marche ?
 description: Les infos pour tout comprendre comment ça marche ! Plein Phare est un projet qui a pour intention d'apporter une réponse originale à la question "qu'est-ce que je vais faire plus tard ?".
-image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-plein-phare.png?raw=true
+image_url: https://github.com/walkingdev/plein-phare/blob/master/media/banner-plein-phare.png?raw=true
 ---
 
 # Journée découverte du projet Plein Phare*
