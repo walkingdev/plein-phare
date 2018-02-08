@@ -1,6 +1,6 @@
 ---
 title: S'inscrire !
-description: les infos pour s'inscrire à la session !
+description: Les infos pour s'inscrire à la session !
 image_url: https://github.com/walkingdev/plein-phare/blob/master/media/banner-inscription.png?raw=true
 ---
 
