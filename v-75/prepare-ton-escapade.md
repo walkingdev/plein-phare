@@ -1,10 +1,9 @@
 ---
-title: Prépare ton escapade Plein Phare V-75
+title: Préparer ton escapade !
 description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/plein-phare/blob/master/media/banner-escapade.png?raw=true
 ---
 
-# Session Plein-Phare - V-75
+# Session Plein-Phare du 8 mars 2018 - Paris
 
 ## Ta préparation
 
