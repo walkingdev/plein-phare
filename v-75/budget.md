@@ -11,7 +11,7 @@ description: Liste des dépenses/recettes de la session pour tout savoir sur le 
 
 
 **Total : **
-—
+— 100
 
 # Recettes
 
