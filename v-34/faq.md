@@ -22,7 +22,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commence **le samedi 31 mars 2017 à 9h** et se termine vers 18h30.  
+La marche commence **le samedi 31 mars 2018 à 9h** et se termine vers 18h30.  
 RDV à [La Panacée](http://lapanacee.org/fr), 14 Rue de l'école de pharmacie 34000 Montpellier.
 ### C'est pour qui ?
 
