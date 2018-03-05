@@ -12,6 +12,7 @@ description: Un avant goût des endroits que l'on va découvrir ensemble.
 - **La Panacée** : 14 rue école de la pharmacie (bouffe super bonne mais bruyant et n'acceptent pas les chiens)
 - **hba1c - le spot gourmand** : 18 Rue du Bayle, 34000 Montpellier (spot tenu par Anne et Patrice. Un endroit qui prend soin des diabétiques. Gourmandises à gogo et bonne humeur garantie)
 - **Humain Trop Humain** : Domaine de Grammont, Avenue Albert Einstein, 34965 Montpellier (Théâtre, personnel sympa, plein d'endroit pour s'installer avec un extérieur, des chevaux pas trop loin et prix abordable)
+- **Chateau de Flaugergues** : 1744 avenue Albert Einstein, 34000, Montpellier, France (Lieu somptueux extérieur/intérieur, un peu loin du centre mais ça se tente, trop reuch pour y manger, mais parfait pour des ateliers en pleine air)
 
 
 ## Les lieux auxquels vous avez échappé
