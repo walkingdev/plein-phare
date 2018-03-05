@@ -68,7 +68,7 @@ Prévoir 30€ pour les consos'.
 
 ### Je m'inscris où ?
 
-Par [ici](https://github.com/walkingdev/plein-phare/blob/master/v-34/inscriptions.md).
+Par [ici](https://www.eventbrite.fr/e/billets-copie-de-walking-dev-tu-veux-faire-quoi-plus-tard-43808900601).
 Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
 
 ### Et si c’est trop cher pour moi ?
