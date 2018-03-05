@@ -11,6 +11,7 @@ description: Un avant goût des endroits que l'on va découvrir ensemble.
 - **café Zandoli**: 36 rue des Universités (café boutique de commerce équitable, ambiance ethnique, variété de boissons, acceptent les chiens) 
 - **La Panacée** : 14 rue école de la pharmacie (bouffe super bonne mais bruyant et n'acceptent pas les chiens)
 - **hba1c - le spot gourmand** : 18 Rue du Bayle, 34000 Montpellier (spot tenu par Anne et Patrice. Un endroit qui prend soin des diabétiques. Gourmandises à gogo et bonne humeur garantie)
+- **Humain Trop Humain** : Domaine de Grammont, Avenue Albert Einstein, 34965 Montpellier (Théâtre, personnel sympa, plein d'endroit pour s'installer avec un extérieur, des chevaux pas trop loin et prix abordable)
 
 
 ## Les lieux auxquels vous avez échappé
