@@ -14,7 +14,7 @@ description: Un avant goût des endroits que l'on va découvrir ensemble.
 - **Humain Trop Humain** : Domaine de Grammont, Avenue Albert Einstein, 34965 Montpellier (Théâtre, personnel sympa, plein d'endroit pour s'installer avec un extérieur, des chevaux pas trop loin et prix abordable)
 - **Chateau de Flaugergues** : 1744 avenue Albert Einstein, 34000, Montpellier, France (Lieu somptueux extérieur/intérieur, un peu loin du centre mais ça se tente, trop reuch pour y manger, mais parfait pour des ateliers en plein air)  
 -**Gazette Café** : 6 r Levat, 34000 Montpellier (lieu convivial, ambiance chouette, un peu cher mais sympathique, acceptent pas les chiens)
--**Citizen market"** : 9 rue durand, 34000 Montpellier (épicerie 0 déchets, restaurant anti-gaspi, accueille les chiens, tenu par 1 pote à Julia)
+- **Citizen market"** : 9 rue durand, 34000 Montpellier (épicerie 0 déchets, restaurant anti-gaspi, accueille les chiens, tenu par 1 pote à Julia)
 
 
 ## Les lieux auxquels vous avez échappé
