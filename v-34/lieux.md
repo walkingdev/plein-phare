@@ -3,12 +3,14 @@ title: Les lieux qu'on va visiter
 description: Un avant goût des endroits que l'on va découvrir ensemble.
 ---
 
-## Lieux utilisés 
+## Lieux qu'on va visiter 
 - **La Panacée** : 14 rue école de la pharmacie (bouffe super bonne, lieu d'expo sur place, bruyant et n'acceptent pas les chiens)
 - **Citizen market"** : 9 rue durand, 34000 Montpellier (épicerie 0 déchets, restaurant anti-gaspi, accueille les chiens, tenu par 1 pote à Julia)
 - **Médiathèque Emile Zola** : 218 Boulevard de l'Aéroport international, 34000 Montpellier (grands espaces, petite cafette, lieu atypique et un peu impressionnant)
 - **Les Halles Jacques Coeur** : 515 Boulevard d'Antigone, 34000 Montpellier (pleins de petits trucs à grignotter type marché "fixe")
 - **Bar du Marché** : place des Beaux Arts (ambiance conviviale, gens sympathique, chouettes tapas, pas trop cher)
+
+![proposition de Walking](https://github.com/walkingdev/plein-phare/blob/master/media/propostion-de-walking.png)
 
 ## Les lieux auxquels vous avez (malheureusement) échappé (cette fois-ci !) mais qu'on aime beaucoup quand même : 
 - **Extrashot** : 44 rue de l'aiguillerie (gérand très sympa, plein de prise partout, wifi nikel, café très bon, bilingue, accepte les chiens)  
